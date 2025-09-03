@@ -10,3 +10,4 @@ wheels/
 .venv
 .venv310/
 synthetic-data-creation/
+.venv310/
