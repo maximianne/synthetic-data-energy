@@ -1,3 +1,4 @@
 # synthetic-data-energy
 
-## notebooks contain the TimeGAN, VNAE and LSTM_AE model for generating synthetic data. 
+## notebooks contain the TimeGAN, VNAE, LSTM_AE model and DoppleGAN for generating synthetic data. 
+
